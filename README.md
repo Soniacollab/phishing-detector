@@ -37,6 +37,3 @@ Pas d'analyse avancée des URLs / pièces jointes
 Modèle classique (pas un LLM) : choix volontaire pour un socle Data Science solide
 Auteure
 Sokhna Ndione — Bachelor Full-Stack Big Data & IA (ESGI)
-
-
-Repo **public** + ce README = OK portfolio.
